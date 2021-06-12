@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -16,7 +16,6 @@ News
 ======
 1. n1
 1. n2..
-[//]: # "just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html)"
 
 Interests
 ======
@@ -27,7 +26,7 @@ Featured Research
 main projects
 Sub-heading
 ------
-[//]: # "For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header"
+sub heads
 
 Personal
 ======
