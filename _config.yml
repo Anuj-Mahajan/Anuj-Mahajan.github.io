@@ -83,7 +83,7 @@ author:
   name             : "Anuj Mahajan"
   avatar           : "profile.png"
   bio              : "Researcher in Machine Learning"
-  location         : "Oxford, UK"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=a3AbXGcAAAAJ&hl=en"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AnujMahajanOxf"
+  github           : "AnujMahajanOxf"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/anuj-m-bb0a26175/"
+  linkedin         : "anuj-m-bb0a26175/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/1_Anuj_M_1"
+  twitter          : "1_Anuj_M_1"
   vine             :
   weibo            :
   xing             :
