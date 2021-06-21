@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
