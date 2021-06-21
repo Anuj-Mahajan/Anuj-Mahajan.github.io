@@ -27,7 +27,7 @@ News
 
 Interests
 ======
-My research is focused onfinding theoretically grounded methods for problems in single and multi-agent reinforcement learning (RL) which perform well on large challenging domains. 
+My research is focused onfinding theoretically grounded methods for problems in single and multi-agent reinforcement learning (RL) which perform well on large challenging domains.
 
 I am interested in using ideas from learning theory, information theory and optimisation in my work to provide guarantees for important properties like generalization, performance, convergence & robustness, and formulate a principled framework for analysing the effects of assumptions made on the hypothesis class for candidate solutions. I am also interested in using these methods for equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning.
 
@@ -40,3 +40,5 @@ I am happy to discuss and collaborate on topics related to my research interests
 Featured Research
 ======
 main projects
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
