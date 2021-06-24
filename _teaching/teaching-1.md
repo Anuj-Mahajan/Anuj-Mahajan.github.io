@@ -1,6 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
+type: "Course"
 permalink: /teaching/teaching-1
 venue: "IIT Delhi"
 ---
