@@ -1,0 +1,8 @@
+---
+title: "Lifted Inference Rules with Constraints"
+collection: publications
+permalink: /publication/paper2
+venue: 'Advances in Neural Information Processing Systems, 2015'
+---
+Happy Mittal, Anuj Mahajan, Vibhav Gogate, Parag Singla\
+[Paper Link](http://anuj-mahajan.github.io/files/lifted_mln.pdf)    [Citation](/bibtex/paper2.html)

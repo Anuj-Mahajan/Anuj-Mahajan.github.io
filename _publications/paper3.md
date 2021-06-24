@@ -1,0 +1,8 @@
+---
+title: "Symmetry Detection and Exploitation for Function Approximation in Deep RL"
+collection: publications
+permalink: /publication/paper3
+venue: 'Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems. 2017'
+---
+Anuj Mahajan, Theja Tulabandhula\
+[Paper Link](http://anuj-mahajan.github.io/files/sdrl.pdf)    [Citation](/bibtex/paper3.html)

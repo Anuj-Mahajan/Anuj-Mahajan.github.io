@@ -15,4 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+(\* denotes equal contribution)
+
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">

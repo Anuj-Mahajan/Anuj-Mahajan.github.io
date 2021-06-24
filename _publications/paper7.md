@@ -1,0 +1,8 @@
+---
+title: "RODE: Learning Roles to Decompose Multi-Agent Tasks"
+collection: publications
+permalink: /publication/paper7
+venue: 'International Conference on Learning Representations, 2021'
+---
+Tonghan Wang, Tarun Gupta, Anuj Mahajan, Bei Peng, Shimon Whiteson, Chongjie Zhang\
+[Paper Link](http://anuj-mahajan.github.io/files/rode.pdf)    [Citation](/bibtex/paper7.html)

@@ -1,0 +1,8 @@
+---
+title: "Virel: A variational inference framework for reinforcement learning"
+collection: publications
+permalink: /publication/paper5
+venue: 'Neural Information Processing Systems, 2019'
+---
+Matthew Fellows\*, Anuj Mahajan\*, Tim GJ Rudner, Shimon Whiteson\
+[Paper Link](http://anuj-mahajan.github.io/files/virel.pdf)    [Citation](/bibtex/paper5.html)
