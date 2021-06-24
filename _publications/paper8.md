@@ -1,5 +1,5 @@
 ---
-UneVEn: "Universal Value Exploration for Multi-Agent Reinforcement Learning"
+title: "UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning"
 collection: publications
 permalink: /publication/paper8
 venue: 'International Conference on Machine Learning, 2021'
