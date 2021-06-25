@@ -1,8 +1,8 @@
 ---
-title: "UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning"
+title: "SoftDICE for Imitation Learning: Rethinking Off-policy Distribution Matching"
 collection: publications
 permalink: /publication/paper8
-venue: 'International Conference on Machine Learning, 2021'
+venue: 'arxiv'
 ---
-Tarun Gupta, Anuj Mahajan, Bei Peng, Wendelin Böhmer, Shimon Whiteson\
-[Paper Link](http://anuj-mahajan.github.io/files/uneven.pdf)    [Citation](/bibtex/paper8.html)
+Mingfei Sun, Anuj Mahajan, Katja Hofmann, Shimon Whiteson\
+[Paper Link](http://anuj-mahajan.github.io/files/softdice.pdf)    [Citation](/bibtex/paper8.html)
