@@ -1,0 +1,7 @@
+---
+title: "Abstraction aware agents"
+excerpt: "Abstraction aware agents" <br/><img src='/images/500x300.png'>
+collection: portfolio
+---
+
+full description
