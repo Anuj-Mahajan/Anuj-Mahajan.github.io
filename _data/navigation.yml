@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Featured research"
+    url: /portfolio/
+
   - title: "Talks"
     url: /talks/
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Featured research"
-    url: /portfolio/
 
   - title: "CV"
     url: /files/Anuj_CV.pdf
