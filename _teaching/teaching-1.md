@@ -4,6 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/teaching-1
 venue: "IIT Delhi"
+date: 2015-07-01
 ---
 TA for undergrad and graduate bridge courses, IIT Delhi for the courses:
 * Machine Learning (COL774) Spring semester 2015-16
