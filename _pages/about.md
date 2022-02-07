@@ -14,6 +14,7 @@ My research has been generously supported by [J.P. Morgan A.I. Fellowship](https
 
 News
 ======
+1. Checkout our work on Generalization in Cooperative Multi-Agent Systems, full paper [here](http://anuj-mahajan.github.io/files/genmas.pdf).
 1. Checkout our [work](https://deepmind.com/research/publications/2021/open-ended-learning-leads-to-generally-capable-agents) on Open-Ended Learning which leads to Generally Capable Agents, full paper [here](http://anuj-mahajan.github.io/files/OEL_Paper_2021.pdf).
 1. Our work [Tesseract](https://arxiv.org/pdf/2106.00136.pdf) using tensor decompositions for factored action spaces accepted for ICML 2021
 1. Our work [UneEVen](https://arxiv.org/pdf/2010.02974.pdf) using successor features for exploration in multi agent RL accepted for ICML 2021
