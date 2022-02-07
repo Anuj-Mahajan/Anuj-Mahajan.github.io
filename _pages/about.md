@@ -37,6 +37,3 @@ I am interested in using ideas from learning theory, information theory and opti
 Research Opportunities
 ======
 I am happy to discuss and collaborate on topics related to my research interests. If you are interested, please send me an email. I especially encourage students from under-represented groups and motivated graduate students to reach out.
-
-
-
