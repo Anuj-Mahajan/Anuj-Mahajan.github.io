@@ -16,4 +16,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
