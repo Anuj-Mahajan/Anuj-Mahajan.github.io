@@ -1,6 +1,7 @@
 ---
 title: "An endlessly changing playground teaches AIs how to multitask"
 collection: media
+type: "Article"
 permalink: /media/media-3
 venue: "MIT Technology Review"
 date: 2021-07-30
