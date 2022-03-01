@@ -1,5 +1,5 @@
 ---
-title: "Generally capable agents emerge from open-ended play"
+title: "DeepMind blog on Generally Capable Agents"
 collection: media
 type: "Article"
 permalink: /media/media-2

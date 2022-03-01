@@ -1,5 +1,5 @@
 ---
-title: "A Multi-Agent Perspective to AI"
+title: "Multi-Agent Perspective to AI, talk at GoodA"
 collection: media
 type: "Video"
 permalink: /media/media-1

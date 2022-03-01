@@ -1,5 +1,5 @@
 ---
-title: "An endlessly changing playground teaches AIs how to multitask"
+title: "MIT Technology Review on Open Ended Learning"
 collection: media
 type: "Article"
 permalink: /media/media-3
