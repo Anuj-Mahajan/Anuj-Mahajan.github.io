@@ -251,10 +251,9 @@ defaults:
       path: ""
       type: media
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comments: true
 
 # Sass/SCSS
 sass:
