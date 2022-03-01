@@ -1,5 +1,5 @@
 ---
-title: "AI plays catch, Two Minute Papers"
+title: "Two Minute Papers video on AI plays catch"
 collection: media
 type: "Video"
 permalink: /media/media-4
