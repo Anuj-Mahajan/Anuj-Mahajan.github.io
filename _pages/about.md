@@ -29,10 +29,7 @@ News
 
 Interests
 ======
-My research is focused on finding theoretically grounded methods for problems in single and multi-agent reinforcement learning (RL) which perform well on large, challenging domains.
-
-I am interested in using ideas from learning theory, information theory and optimisation in my work to provide guarantees for important properties like generalization, performance, safety, convergence & robustness, and formulate a principled framework for analysing the effects of assumptions made on the hypothesis class for candidate solutions. I am also interested in using these methods for equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning.
-
+I am interested in understanding the principles of intelligent behaviour and creating algorithms which can help machines learn in practical settings. My current work revolves around large-scale approximate Reinforcement Learning (RL), mostly focusing on themes like Generalization, Multi-Agentness, Continual/Never-ending RL and Safe RL with particular emphasis on computational and mathematical foundations. I am also interested in alternate paradigms for learning intelligent behaviour especially towards equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning under uncertainity.
 
 Research Opportunities
 ======
