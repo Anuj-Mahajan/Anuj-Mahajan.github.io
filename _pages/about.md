@@ -10,7 +10,11 @@ redirect_from:
 
 I am a PhD student in Machine Learning in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), advised by [Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/). My long term research goal is to create theoretically grounded methods for intelligent agents which scale to large, real-life scenarios.
 
-My research has been generously supported by [J.P. Morgan A.I. Fellowship](https://www.jpmorgan.com/insights/technology/artificial-intelligence/awards/phd-fellowship-award-recipients-2020), [Google-DeepMind Scholarship](https://deepmind.com/scholarships) and [Draper's Scholarship](https://thedrapers.co.uk/fellowship/). Previously, I have also spent time at [DeepMind](https://deepmind.com), [J.P. Morgan A.I.](https://www.jpmorgan.com/technology/artificial-intelligence) and [Nvidia](https://www.nvidia.com/en-us/research/).
+My research has been generously supported by [J.P. Morgan A.I. Fellowship](https://www.jpmorgan.com/insights/technology/artificial-intelligence/awards/phd-fellowship-award-recipients-2020), [Google-DeepMind Scholarship](https://deepmind.com/scholarships) and [Draper's Scholarship](https://thedrapers.co.uk/fellowship/). Previously, I have also spent time at [DeepMind](https://deepmind.com), [J.P. Morgan A.I.](https://www.jpmorgan.com/technology/artificial-intelligence) and [Nvidia](https://www.nvidia.com/en-us/research/). Even before that, I did my undergraduate degree in Computer Science at the [Indian Institute of Technology, Delhi](https://www.cse.iitd.ac.in/) after which I worked as a research scientist at [Xerox Research](https://www.parc.com/).
+
+Interests
+======
+I am interested in understanding the principles of intelligent behaviour and creating algorithms which can help machines learn in practical settings. My current work revolves around large-scale approximate Reinforcement Learning (RL), mostly focusing on themes like Generalization, Multi-Agentness, Continual/Never-ending RL and Safe RL with particular emphasis on computational and mathematical foundations. I am also interested in alternate paradigms for learning intelligent behaviour especially towards equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning under uncertainity. 
 
 News
 ======
@@ -26,10 +30,6 @@ News
 1. I will be starting a research internship at [Nvidia](https://www.nvidia.com/en-us/research/) in Michaelmas 2019
 1. Our work [MAVEN](https://arxiv.org/pdf/1910.07483.pdf) using mutual information for efficient exploration in multi agent RL accepted for NeurIPS 2019
 1. Our work [VIREL](http://papers.nips.cc/paper/8934-virel-a-variational-inference-framework-for-reinforcement-learning.pdf) proposing exact equivalence between RL and inference accepted for NeurIPS 2019
-
-Interests
-======
-I am interested in understanding the principles of intelligent behaviour and creating algorithms which can help machines learn in practical settings. My current work revolves around large-scale approximate Reinforcement Learning (RL), mostly focusing on themes like Generalization, Multi-Agentness, Continual/Never-ending RL and Safe RL with particular emphasis on computational and mathematical foundations. I am also interested in alternate paradigms for learning intelligent behaviour especially towards equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning under uncertainity.
 
 Research Opportunities
 ======
