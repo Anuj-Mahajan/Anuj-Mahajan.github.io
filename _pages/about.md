@@ -24,8 +24,8 @@ News
 1. Our work [UneEVen](https://arxiv.org/pdf/2010.02974.pdf) using successor features for exploration in multi agent RL accepted for ICML 2021
 1. I will be starting a research internship at [DeepMind](https://deepmind.com) in Trinity 2021
 1. Our work [RODE](https://arxiv.org/pdf/2010.01523.pdf) using role decomposition for multi agent RL accepted in ICLR 2021
-1. Honoured to be accepted for [IBM PhD fellowship, 2020](https://www.research.ibm.com/university/awards/fellowships.html)
-1. Honoured to have received [J.P. Morgan A.I. Fellowship, 2020](https://www.jpmorgan.com/insights/technology/artificial-intelligence/awards/phd-fellowship-award-recipients-2020)
+1. Honoured to be awarded [IBM PhD fellowship, 2020](https://www.research.ibm.com/university/awards/fellowships.html)
+1. Honoured to be awarded [J.P. Morgan A.I. Fellowship, 2020](https://www.jpmorgan.com/insights/technology/artificial-intelligence/awards/phd-fellowship-award-recipients-2020)
 1. I will be starting a research internship at [J.P. Morgan A.I.](https://www.jpmorgan.com/technology/artificial-intelligence) in Michaelmas 2020
 1. I will be starting a research internship at [Nvidia](https://www.nvidia.com/en-us/research/) in Michaelmas 2019
 1. Our work [MAVEN](https://arxiv.org/pdf/1910.07483.pdf) using mutual information for efficient exploration in multi agent RL accepted for NeurIPS 2019
