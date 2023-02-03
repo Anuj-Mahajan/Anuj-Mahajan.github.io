@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed my PhD student in Machine Learning in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), advised by [Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/). My long term research goal is to create theoretically grounded methods for intelligent agents which scale to large, real-life scenarios.
+I did a PhD in Machine Learning at the [Department of Computer Science](https://www.cs.ox.ac.uk/) in the [University of Oxford](https://www.ox.ac.uk/), where I was advised by [Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/). My long term research goal is to create theoretically grounded methods for intelligent agents which scale to large, real-life scenarios.
 
 My research has been generously supported by [J.P. Morgan A.I. Fellowship](https://www.jpmorgan.com/insights/technology/artificial-intelligence/awards/phd-fellowship-award-recipients-2020), [Google-DeepMind Scholarship](https://deepmind.com/scholarships) and [Draper's Scholarship](https://thedrapers.co.uk/fellowship/). Previously, I have also spent time at [DeepMind](https://deepmind.com), [J.P. Morgan A.I.](https://www.jpmorgan.com/technology/artificial-intelligence) and [Nvidia](https://www.nvidia.com/en-us/research/). Even before that, I did my undergraduate degree in Computer Science at the [Indian Institute of Technology, Delhi](https://www.cse.iitd.ac.in/) after which I worked as a research scientist at [Xerox Research](https://www.parc.com/). My CV can be found [here](https://anuj-mahajan.github.io/files/Anuj_CV.pdf).
 
