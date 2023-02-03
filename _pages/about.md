@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I did a PhD in Machine Learning at the [Department of Computer Science](https://www.cs.ox.ac.uk/) in the [University of Oxford](https://www.ox.ac.uk/), where I was advised by [Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/). My long term research goal is to create theoretically grounded methods for intelligent agents which scale to large, real-life scenarios.
+I am resarcher in Machine Learning. I did a PhD at the [Department of Computer Science](https://www.cs.ox.ac.uk/) in the [University of Oxford](https://www.ox.ac.uk/), where I was advised by [Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/). My long term research goal is to create theoretically grounded methods for intelligent agents which scale to large, real-life scenarios.
 
 My research has been generously supported by [J.P. Morgan A.I. Fellowship](https://www.jpmorgan.com/insights/technology/artificial-intelligence/awards/phd-fellowship-award-recipients-2020), [Google-DeepMind Scholarship](https://deepmind.com/scholarships) and [Draper's Scholarship](https://thedrapers.co.uk/fellowship/). Previously, I have also spent time at [DeepMind](https://deepmind.com), [J.P. Morgan A.I.](https://www.jpmorgan.com/technology/artificial-intelligence) and [Nvidia](https://www.nvidia.com/en-us/research/). Even before that, I did my undergraduate degree in Computer Science at the [Indian Institute of Technology, Delhi](https://www.cse.iitd.ac.in/) after which I worked as a research scientist at [Xerox Research](https://www.parc.com/). My CV can be found [here](https://anuj-mahajan.github.io/files/Anuj_CV.pdf).
 
 Interests
 ======
-I am interested in understanding the principles of intelligent behaviour and creating algorithms which can help machines learn in practical settings. My current work revolves around large-scale approximate Reinforcement Learning (RL), mostly focusing on themes like Generalization, Multi-Agent Systems, Never-ending RL, Representation Learning and Safety/Alignment with particular emphasis on computational and mathematical foundations. I am also interested in alternate paradigms for learning intelligent behaviour especially towards equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning under uncertainity. 
+I am interested in understanding the principles of intelligent behaviour and creating algorithms which can help machines learn in practical settings. My current work revolves around large-scale approximate Reinforcement Learning (RL), mostly focusing on themes like Generalization, Multi-Agent Systems, Never-ending RL, Representation Learning, Safety/Alignment and Gnerative Modelling with particular emphasis on computational and mathematical foundations. I am also interested in alternate paradigms for learning intelligent behaviour especially towards equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning under uncertainity. 
 
 News
 ======
