@@ -14,7 +14,7 @@ My research has been generously supported by [J.P. Morgan A.I. Fellowship](https
 
 Interests
 ======
-I am interested in understanding the principles of intelligent behaviour and creating algorithms which can help machines learn in practical settings. My current work revolves around large-scale approximate Reinforcement Learning (RL), mostly focusing on themes like Generalization, Multi-Agent Systems, Never-ending RL, Representation Learning, Safety/Alignment and Gnerative Modelling with particular emphasis on computational and mathematical foundations. I am also interested in alternate paradigms for learning intelligent behaviour especially towards equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning under uncertainity. 
+I am interested in understanding the principles of intelligent behaviour and creating algorithms which can help machines learn in practical settings. My current work revolves around large-scale approximate Reinforcement Learning (RL), mostly focusing on themes like Generalization, Multi-Agent Systems, Never-ending RL, Representation Learning, Safety/Alignment and Generative Modelling with particular emphasis on computational and mathematical foundations. I am also interested in alternate paradigms for learning intelligent behaviour especially towards equipping agents with attributes that help capture aspects like symmetry, compositionality and reasoning under uncertainity. 
 
 News
 ======
