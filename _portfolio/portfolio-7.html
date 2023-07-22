@@ -2,7 +2,7 @@
 title: "Generalization across observation shifts in RL"
 excerpt: "<br/><img src='/images/bisim_losses.png' style='height:400px;'>"
 collection: portfolio
-date: 2023-06-31
+date: 2023-07-01
 ---
 
 Learning policies which are robust to changes in the environment are critical for real world deployment of Reinforcement Learning agents. They are also necessary for achieving good generalization across environment shifts. We focus on bisimulation metrics, which provide a powerful means for abstracting task relevant components of the observation and learning a succinct representation space for training the agent using reinforcement learning. In this work, we extend the bisimulation framework to also account for context dependent observation shifts. Specifically, we focus on the simulator based learning setting and use alternate observations to learn a representation space which is invariant to observation shifts using a novel bisimulation based objective. This allows us to deploy the agent to varying observation settings during test time and generalize to unseen scenarios. We further provide novel theoretical bounds for simulator fidelity and performance transfer guarantees for using a learnt policy to unseen shifts. Empirical analysis on the high-dimensional image based control domains demonstrates the efficacy of our method. Full paper available <a href="http://anuj-mahajan.github.io/files/RCB.pdf">here</a>.
